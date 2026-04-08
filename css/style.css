@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
   font-family: "Montserrat";
   src: url(../fonts/Montserrat-VariableFont_wght.ttf);
@@ -20,6 +21,8 @@
   --menu-text-weight: 500;
 }
 
+=======
+>>>>>>> d949822bfdea1ebd82b7a88be49205919c9712af
 body,
 img,
 h1,
@@ -35,6 +38,7 @@ button {
   padding: 0;
   box-sizing: border-box;
 }
+<<<<<<< HEAD
 
 p {
   color: var(--primary-color);
@@ -47,3 +51,5 @@ div {
   display: inline-block;
   background-color: yellowgreen;
 }
+=======
+>>>>>>> d949822bfdea1ebd82b7a88be49205919c9712af
